@@ -4,7 +4,7 @@
 
 ## Tabla de Guía
 
-
+![Image](https://github.com/user-attachments/assets/776ed445-8e7d-40a9-9cb3-07480d6dd837)
 
 ## Resolveremos un ejemplo 
 

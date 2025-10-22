@@ -10,5 +10,7 @@
 
 <img width="684" height="597" alt="Image" src="https://github.com/user-attachments/assets/b72fda6e-c2a1-4404-a6e8-e4dd5e277606" />
 
+## Enrutamiento estatico
 
+<img width="1808" height="707" alt="Image" src="https://github.com/user-attachments/assets/8efaead3-72fb-447d-b60e-6c93914f1d85" />
 

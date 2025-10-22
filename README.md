@@ -14,3 +14,8 @@
 
 <img width="1808" height="707" alt="Image" src="https://github.com/user-attachments/assets/8efaead3-72fb-447d-b60e-6c93914f1d85" />
 
+## VLAN 
+
+Enlace Trunck van etiquetados con etiqueta 802.1Q (entre switch y router)
+Enlace Acceso No tienen etiqueta 
+

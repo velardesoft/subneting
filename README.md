@@ -12,6 +12,8 @@
 
 ## Enrutamiento estatico
 
+![Image](https://github.com/user-attachments/assets/7fda28e0-2057-46d7-b290-846201866948)
+
 <img width="1808" height="707" alt="Image" src="https://github.com/user-attachments/assets/8efaead3-72fb-447d-b60e-6c93914f1d85" />
 
 ## VLAN 
